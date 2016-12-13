@@ -31,11 +31,11 @@
             android:text="Sign in" />
 
         <Button
-            android:id="@+id/button_sign_up"
+            android:id="@+id/button_sign_up1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:onClick="clickSignMain"
+            android:onClick="clickSignUpMain"
             android:text="Sign up" />
     </LinearLayout>
 
